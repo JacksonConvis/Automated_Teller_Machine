@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class atm {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		/*
 		 * This is a a program I created to simulate an ATM system using output to the
 		 * Java console: Build specifications: The 3 options presented by the ATM will
